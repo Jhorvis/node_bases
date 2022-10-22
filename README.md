@@ -1,8 +1,9 @@
-Aplicación de consola escrita en NODE
-Crea tablas de multiplicar tomando como base argumentos enviados por consola
-Para instalar repositorio se debe ejecutar npm install en la carpeta del repositorio ya descargadp
-Para ejecutar la aplicación se debe colocar el comando node apps.js <argumentos>
-Algunos argumentos son los siguientes:
+#Notas
+
+Aplicación de consola escrita en NODE para crear tablas de multiplicar tomando como base argumentos enviados por consola
+* Para instalar repositorio se debe ejecutar npm install en la carpeta del repositorio ya descargado
+* Para ejecutar la aplicación se debe colocar el comando node apps.js <argumentos>
+* Algunos argumentos son los siguientes:
 
 ```
     --help           Show help                                       [boolean]
