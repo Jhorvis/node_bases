@@ -1,4 +1,4 @@
-#Notas
+# Notas:
 
 Aplicación de consola escrita en NODE para crear tablas de multiplicar tomando como base argumentos enviados por consola
 * Para instalar repositorio se debe ejecutar npm install en la carpeta del repositorio ya descargado
